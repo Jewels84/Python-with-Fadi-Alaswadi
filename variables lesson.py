@@ -9,3 +9,5 @@ print(salary.replace('1234.54' , '987.65'))  #replacying the value of the variab
 print('Candidate full name=') 
 print(fname + "  " + lname)
 print('She is' + " " + age)
+b= 'Hi' * 10
+print(b)
