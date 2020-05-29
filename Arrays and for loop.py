@@ -17,4 +17,12 @@ print(subjects[1:2])
 
 #Writing the FOR LOOP
 for x in subjects:
-    print(x)
+    #print(x)
+    print(x,x,x)
+
+no=[1,2,3,4,5 ,6]
+print(no)
+
+#there is some errors I will fix it later on
+for x,y in no,subjects:
+    print(x,y)
