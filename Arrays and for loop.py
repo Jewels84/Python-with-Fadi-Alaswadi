@@ -14,3 +14,7 @@ print(subjects)
 
 print(subjects[1:2])
 #honestly I didint understand why its going to print only1
+
+#Writing the FOR LOOP
+for x in subjects:
+    print(x)
